@@ -13,7 +13,7 @@
 ### Main learning sources
 - Information Geometry and Its Application, Shun-ichi Amari
 - Information Geometry, Nihat Ay, Jürgen Jost, Hông Vân Lê, Lorenz Schwachhöfer
-- [A gentle introduction to information geomtry - Lewis Smith](https://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html)
+- [A gentle introduction to information geometry - Lewis Smith](https://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html)
 - [An elementary introduction to information geometry - Frank Nielsen](https://arxiv.org/pdf/1808.08271.pdf)
 
 ### Advanced and research material that I eventually want to cover
