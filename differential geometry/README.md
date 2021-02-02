@@ -53,3 +53,5 @@
 - [Incomplete reparameterizations and equivalent metric. Betancourt](https://arxiv.org/pdf/1910.09407.pdf) 
 - [A geometric theory of higher-order automatic differentiation. Betancourt](https://arxiv.org/pdf/1812.11592.pdf)
 - [Generalizing the No-U-Turn sampler to riemannian manifolds. Betancourt](https://arxiv.org/pdf/1304.1920.pdf)
+- [Normalizing Flows on Tori and Spheres, Rezende et al](http://proceedings.mlr.press/v119/rezende20a/rezende20a.pdf)
+- [Introduction to normalizing flows for lattice field theory. Albergo et al](https://arxiv.org/pdf/2101.08176.pdf)
