@@ -34,4 +34,4 @@
 #### Causality and representation / latent space methods
 - [Causal Effect Inference with Deep Latent-Variable Models](https://arxiv.org/pdf/1705.08821.pdf)
 - [Learning Representations for Counterfactual Inference](http://people.csail.mit.edu/dsontag/papers/JohanssonShalitSontag_icml16.pdf)
-  - Related, but not focused on causality: (Support and Invertibility in Domain-Invariant Representations)[https://arxiv.org/pdf/1903.03448.pdf] and (Max-margin learning with the Bayes factor)[http://people.csail.mit.edu/dsontag/papers/KrishnanEtAl_UAI18.pdf]
+  - Related, but not focused on causality: [Support and Invertibility in Domain-Invariant Representations](https://arxiv.org/pdf/1903.03448.pdf) and [Max-margin learning with the Bayes factor](http://people.csail.mit.edu/dsontag/papers/KrishnanEtAl_UAI18.pdf)
