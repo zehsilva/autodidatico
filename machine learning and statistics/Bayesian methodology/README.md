@@ -8,7 +8,7 @@
 
 #### Priors
 - [Predictive Complexity Priors](https://arxiv.org/pdf/2006.10801.pdf)
-- 
+- [Prior elicitation (chapter 3, Lee Fawcett lecture notes)](http://www.mas.ncl.ac.uk/~nlf8/teaching/mas2317/notes/chapter3.pdf)
 
 #### Uncertainty modelling and neural networks
 - [Uncertainty as a form of transparency](https://arxiv.org/pdf/2011.07586.pdf)

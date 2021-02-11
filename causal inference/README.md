@@ -18,6 +18,7 @@
 ### Advanced and research material that I eventually want to cover
 
 #### Thread connecting methods of learning structures from the data / DAG and causal modeling
+- [Bayesian Causal Structural Learning with Zero-Inflated Poisson Bayesian Networks](https://papers.nips.cc/paper/2020/file/4175a4b46a45813fccf4bd34c779d817-Paper.pdf)
 - [Gradient-based Neural DAG Learning](https://arxiv.org/pdf/1906.02226.pdf)
 - [Differentiable Causal Discovery from Interventional Data](https://arxiv.org/pdf/2007.01754.pdf)
 - [DAG-GNN: DAG Structure Learning with Graph Neural Networks](http://proceedings.mlr.press/v97/yu19a/yu19a.pdf)- 
@@ -35,3 +36,8 @@
 - [Causal Effect Inference with Deep Latent-Variable Models](https://arxiv.org/pdf/1705.08821.pdf)
 - [Learning Representations for Counterfactual Inference](http://people.csail.mit.edu/dsontag/papers/JohanssonShalitSontag_icml16.pdf)
   - Related, but not focused on causality: [Support and Invertibility in Domain-Invariant Representations](https://arxiv.org/pdf/1903.03448.pdf) and [Max-margin learning with the Bayes factor](http://people.csail.mit.edu/dsontag/papers/KrishnanEtAl_UAI18.pdf)
+
+#### Structural Causal Models
+- [Structural Causal Models Are (Solvable by) Credal Networks](https://arxiv.org/pdf/2008.00463.pdf)
+- [Causal Modeling for Fairness in Dynamical Systems](http://proceedings.mlr.press/v119/creager20a/creager20a.pdf)
+
