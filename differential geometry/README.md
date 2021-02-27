@@ -22,7 +22,9 @@
 - [Lectures on Sympletic Geometry, Ana Cannas da Silva](https://people.math.ethz.ch/~acannas/Papers/lsg.pdf)
 - A Course of Differential Geometry and Topology, Mishchenko and Fomenko
 - [Learning roadmap for Differential Geometry for Machine Learning. Roger Grosse](https://metacademy.org/roadmaps/rgrosse/dgml)
-
+#### Background material
+- [Linear Methods course, Mats Ehrnström., NTNU](https://wiki.math.ntnu.no/linearmethods/start)
+- [Differential Geometry of Curves & Surfaces, Manfredo do Carmo](http://www2.ing.unipi.it/griff/files/dC.pdf)
 
 ### Complementary learning material
 - Visual Geometry and Topology, Anatolij Fomenko
