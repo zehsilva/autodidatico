@@ -4,6 +4,13 @@
 - Jaynes, Probability Theory: The Logic of Science
 - Gelman, A. et al. Bayesian Data Analysis 
 
+#### Lecture notes
+- [Numerical optimization of likelihoods. Geir Storvik, University of Oslo](https://www.uio.no/studier/emner/matnat/math/STK4051/v20/opti.pdf)
+- [MCMC and Bayesian Modeling. Martin Haugh, Columbia University](https://www.uio.no/studier/emner/matnat/math/STK4051/v20/mcmc_bayes.pdf)
+
+#### Historical papers
+- [Sampling-Based Approaches to Calculating Marginal Densities, Gelfand and Smith](http://wwwf.imperial.ac.uk/~das01/MyWeb/SCBI/Papers/GelfandSmith.pdf)
+
 ### Research threads
 
 #### Priors
