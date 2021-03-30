@@ -1,3 +1,5 @@
+### Fundaments
+- [Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers. Boyd et al](https://www.uio.no/studier/emner/matnat/math/STK4051/v20/admm_distr_stats.pdf)
 
 
 ### Research threads
