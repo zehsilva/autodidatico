@@ -36,6 +36,8 @@
 - [Causal Effect Inference with Deep Latent-Variable Models](https://arxiv.org/pdf/1705.08821.pdf)
 - [Learning Representations for Counterfactual Inference](http://people.csail.mit.edu/dsontag/papers/JohanssonShalitSontag_icml16.pdf)
   - Related, but not focused on causality: [Support and Invertibility in Domain-Invariant Representations](https://arxiv.org/pdf/1903.03448.pdf) and [Max-margin learning with the Bayes factor](http://people.csail.mit.edu/dsontag/papers/KrishnanEtAl_UAI18.pdf)
+- [We Are Not Your Real Parents: Telling Causal from Confounded using MDL](https://arxiv.org/pdf/1901.06950.pdf)
+- [Probabilistic latent variable models for distinguishing between cause and effect](https://papers.nips.cc/paper/2010/file/c850371fda6892fbfd1c5a5b457e5777-Paper.pdf)
 
 #### Structural Causal Models
 - [Structural Causal Models Are (Solvable by) Credal Networks](https://arxiv.org/pdf/2008.00463.pdf)
