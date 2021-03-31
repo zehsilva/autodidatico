@@ -3,8 +3,10 @@
 ### Overview material
 - [Monte Carlo Gradient Estimation in Machine Learning](https://arxiv.org/pdf/1906.10652.pdf)
 - [Black Box Variational Inference: Scalable, Generic Bayesian Computation and its Applications](https://www.cs.princeton.edu/research/techreps/TR-008-17)
-### Research threads
+- [An Introduction to Variational Methods for Graphical Models](https://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf)
+- [Graphical Models, Exponential Families, and Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
 
+### Research threads
 
 #### Variational inference and MCMC
 - [Black-Box Variational Inference as Distilled Langevin Dynamics](http://proceedings.mlr.press/v119/hoffman20a/hoffman20a.pdf)
@@ -34,6 +36,7 @@
 
 #### Natural gradients and information geometry of VI
 - [A Formalization of The Natural Gradient Method for General Similarity Measures](https://arxiv.org/pdf/1902.08959.pdf)
+- [The Variational Predictive Natural Gradient](https://arxiv.org/pdf/1903.02984.pdf)
 
 #### Uncertainty in NN with VI and implicit methods
 - [Implicit Weight Uncertainty in Neural Networks](https://arxiv.org/pdf/1711.01297.pdf)
@@ -53,7 +56,7 @@
 - [Graphical Generative Adversarial Networks](https://arxiv.org/pdf/1804.03429.pdf)
 - [Variational Approaches for Auto-Encoding Generative Adversarial Networks](https://arxiv.org/pdf/1706.04987.pdf)
 
-#### Dynamical system and RL with VI
+#### Dynamical system and Reinforcement Learning + VI
 - [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/pdf/1805.00909.pdf)
 - [Efficient Amortised Bayesian Inference for Hierarchical and Nonlinear Dynamical Systems](http://proceedings.mlr.press/v97/meeds19a/meeds19a.pdf)
 - [Flexible statistical inference for mechanistic models of neural dynamics](https://proceedings.neurips.cc/paper/2017/file/addfa9b7e234254d26e9c7f2af1005cb-Paper.pdf)
