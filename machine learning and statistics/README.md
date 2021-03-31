@@ -5,4 +5,4 @@ This one will be hard to organize because there is many years of studying the fi
 ### some generic foundations
 - [Deep learning theory lecture notes (Matus Telgarsky)](https://mjt.cs.illinois.edu/dlt/)
 - [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
-- [Statistical Learning and Sequential Prediction (Alexander Rakhlin and Karthik Sridharan)](http://www.mit.edu/~rakhlin/courses/stat928/stat928_notes.pdf
+- [Statistical Learning and Sequential Prediction (Alexander Rakhlin and Karthik Sridharan)](http://www.mit.edu/~rakhlin/courses/stat928/stat928_notes.pdf)
