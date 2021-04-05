@@ -1,6 +1,7 @@
 ### Fundamental material
 
 - [Aki Vehtari's list of favorite books](https://statmodeling.stat.columbia.edu/2018/05/14/aki_books/)
+- [Markov Chains and Mixing Times (Levin, Peres, Wilmer)](https://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf)
 - Jaynes, Probability Theory: The Logic of Science
 - Gelman, A. et al. Bayesian Data Analysis 
 
