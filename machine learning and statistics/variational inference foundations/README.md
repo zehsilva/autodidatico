@@ -2,6 +2,7 @@
 
 ### Overview material
 - [Monte Carlo Gradient Estimation in Machine Learning](https://arxiv.org/pdf/1906.10652.pdf)
+- [Normalizing Flows for Probabilistic Modeling and Inference](https://jmlr.org/papers/v22/19-1028.html)
 - [Black Box Variational Inference: Scalable, Generic Bayesian Computation and its Applications](https://www.cs.princeton.edu/research/techreps/TR-008-17)
 - [An Introduction to Variational Methods for Graphical Models](https://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf)
 - [Graphical Models, Exponential Families, and Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
