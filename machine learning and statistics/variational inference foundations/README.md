@@ -20,6 +20,7 @@
 
 #### Theoretical analysis
 - [Tighter Variational Bounds are Not Necessarily Better](https://arxiv.org/pdf/1802.04537.pdf%20http://arxiv.org/abs/1802.04537.pdf)
+- [Homeomorphic-Invariance of EM: Non-Asymptotic Convergence in KL Divergence for Exponential Families via Mirror Descent](http://proceedings.mlr.press/v130/kunstner21a.html)
 
 #### Reparameterization and gradient estimation techniques
 - [Reparameterization Gradients through Acceptance-Rejection Sampling Algorithms](http://www.cs.columbia.edu/~blei/papers/NaessethRuizLindermanBlei2017.pdf)
