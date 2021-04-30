@@ -26,6 +26,7 @@
 - [Learning Causal Structures Based on Markov Equivalence Class](https://link.springer.com/chapter/10.1007/11564089_9)
 - [Counting and Exploring Sizes of Markov Equivalence Classes of Directed Acyclic Graphs](https://jmlr.csail.mit.edu/papers/volume16/he15a/he15a.pdf)
 - [Learning Bayesian Network Structure using LP Relaxations](https://people.csail.mit.edu/dsontag/papers/structure_aistats10.pdf)
+- [Theory-Based Causal Induction (Griffith, Tenenbaum)](http://cocosci.princeton.edu/tom/papers/tbci.pdf)
 
 #### Estimating causal effects thread
 - [Estimating individual treatment effect: generalization bounds and algorithms](https://arxiv.org/pdf/1606.03976.pdf)
