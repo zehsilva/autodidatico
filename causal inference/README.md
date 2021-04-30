@@ -32,6 +32,10 @@
 - [Estimating individual treatment effect: generalization bounds and algorithms](https://arxiv.org/pdf/1606.03976.pdf)
 - [Estimation of Bounds on Potential Outcomes For Decision Making](https://arxiv.org/pdf/1910.04817.pdf)
 - [Estimating Treatment Heterogeneity of International Monetary Fund Programs on Child Poverty with Generalized Random Forest](https://osf.io/preprints/socarxiv/awfjt/)
+- [When to Control for Covariates? Panel Asymptotics for Estimates of Treatment Effects](https://ideas.repec.org/a/tpr/restat/v86y2004i1p58-72.html)
+- [Causal Inference in Observational Studies with Non-Binary Treatments (David A. van Dyk)](https://wwwf.imperial.ac.uk/~dvandyk/Presentations/13-causal.pdf)
+- [Heterogeneous Treatment Effects with Continuous Treatment (e.g. using BART) - (CrossValidate Q)](https://stats.stackexchange.com/questions/495066/heterogeneous-treatment-effects-with-continuous-treatment-e-g-using-bart)
+  - [Evaluation of the Effect of a Continuous Treatment: A Machine Learning Approach with an Application to Treatment for Traumatic Brain Injury](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4744663/)
 
 #### Causality and representation / latent space methods
 - [Causal Effect Inference with Deep Latent-Variable Models](https://arxiv.org/pdf/1705.08821.pdf)
@@ -39,6 +43,7 @@
   - Related, but not focused on causality: [Support and Invertibility in Domain-Invariant Representations](https://arxiv.org/pdf/1903.03448.pdf) and [Max-margin learning with the Bayes factor](http://people.csail.mit.edu/dsontag/papers/KrishnanEtAl_UAI18.pdf)
 - [We Are Not Your Real Parents: Telling Causal from Confounded using MDL](https://arxiv.org/pdf/1901.06950.pdf)
 - [Probabilistic latent variable models for distinguishing between cause and effect](https://papers.nips.cc/paper/2010/file/c850371fda6892fbfd1c5a5b457e5777-Paper.pdf)
+
 
 #### Structural Causal Models
 - [Structural Causal Models Are (Solvable by) Credal Networks](https://arxiv.org/pdf/2008.00463.pdf)
