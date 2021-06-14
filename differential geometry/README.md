@@ -25,6 +25,7 @@
 #### Background material
 - [Linear Methods course, Mats Ehrnström., NTNU](https://wiki.math.ntnu.no/linearmethods/start)
 - [Differential Geometry of Curves & Surfaces, Manfredo do Carmo](http://www2.ing.unipi.it/griff/files/dC.pdf)
+- [A Geometric Approach to Differential Forms, David Bachman](https://arxiv.org/pdf/math/0306194v1.pdf)
 
 ### Complementary learning material
 - Visual Geometry and Topology, Anatolij Fomenko
