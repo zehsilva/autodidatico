@@ -64,3 +64,7 @@
 - [Efficient Amortised Bayesian Inference for Hierarchical and Nonlinear Dynamical Systems](http://proceedings.mlr.press/v97/meeds19a/meeds19a.pdf)
 - [Flexible statistical inference for mechanistic models of neural dynamics](https://proceedings.neurips.cc/paper/2017/file/addfa9b7e234254d26e9c7f2af1005cb-Paper.pdf)
 
+#### Generalized bounds
+- [Variational Inference and Model Selection
+with Generalized Evidence Bounds](http://proceedings.mlr.press/v80/chen18k/chen18k.pdf)
+
