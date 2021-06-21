@@ -25,6 +25,7 @@
 #### Reparameterization and gradient estimation techniques
 - [Reparameterization Gradients through Acceptance-Rejection Sampling Algorithms](http://www.cs.columbia.edu/~blei/papers/NaessethRuizLindermanBlei2017.pdf)
 - [Unbiased Implicit Variational Inference](http://proceedings.mlr.press/v89/titsias19a/titsias19a.pdf)
+    - Notebook developed with detailed derivations: [main-repo](implicit_vi.ipynb)  and [Google Colab](https://colab.research.google.com/drive/1znA-K9F4C7Rp-uN13wFb9daHfzmdDRas?usp=sharing) 
 - [Stochastic Computation Graphs: Discrete Relaxations (blog)](http://artem.sobolev.name/posts/2017-10-28-stochastic-computation-graphs-discrete-relaxations.html)
 - [Implicit Reparameterization Gradients](https://arxiv.org/pdf/1805.08498.pdf)
 - [Pathwise Derivatives Beyond the Reparameterization Trick](https://arxiv.org/pdf/1806.01851.pdf)
