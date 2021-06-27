@@ -27,6 +27,16 @@
 - [Differential Geometry of Curves & Surfaces, Manfredo do Carmo](http://www2.ing.unipi.it/griff/files/dC.pdf)
 - [A Geometric Approach to Differential Forms, David Bachman](https://arxiv.org/pdf/math/0306194v1.pdf)
 
+### Lie groups and geometric integrators
+- Differential Geometry and Lie Groups - A Computational Perspective by Jean Gallier, Jocelyn Quaintance
+- [My notebook about geometric integrators](https://colab.research.google.com/drive/1Hywtnf9VIytS9UZlmUfl_dmJh3enHF6Y?usp=sharing)
+- [Brynjulf Owren (2016), Lie group integrators](https://arxiv.org/pdf/1601.04664.pdf)
+- [Ernst Hairer (2001), Geometric Integration of Ordinary Differential Equations on Manifolds](https://www.researchgate.net/publication/226065999_Geometric_Integration_of_Ordinary_Differential_Equations_on_Manifolds)
+- [Ernst Hairer (2011), Solving Differential Equations on Manifolds (lecture notes)](https://www.unige.ch/~hairer/poly-sde-mani.pdf)
+- [Hans Munthe-Kaas (2008). Coordinate Free Numerics, an abstract approach to Scientific Computing (lecture notes)](http://hans.munthe-kaas.no/work/Seminar08_files/LectureNotes.pdf)
+- [Kenth Engø et al. (2001). DiffMan: An object-oriented MATLAB toolbox for solving differential equations on manifolds](http://hans.munthe-kaas.no/work/Blog/Entries/2001/1/1_Article__DiffMan__An_object-oriented_MATLAB_toolbox_for_solving_differential_equations_on_manifolds_files/engo01dao.pdf)
+- [Alexander Lundervold (2011), Lie–Butcher series and geometric numerical integration on manifolds (PhD Thesis)](https://alexander.lundervold.com/assets/files/phdthesis.pdf)
+
 ### Complementary learning material
 - Visual Geometry and Topology, Anatolij Fomenko
 - [Excelente lists of books with commentary](https://math.stackexchange.com/questions/13575/teaching-myself-differential-topology-and-differential-geometry)
