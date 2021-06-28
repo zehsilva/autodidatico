@@ -6,6 +6,8 @@
 ### Research threads
 
 #### Normalizing flows
+- [notebook about new trace estimators](https://colab.research.google.com/drive/1EAPzPPQYWerA_HDY6MIsjOekx3RquPti?usp=sharing)
+- [Kalatzis (2021), Multi-chart flows](https://arxiv.org/pdf/2106.03500.pdf)
 
 #### Stochastic computational graphs
 - [Credit Assignment Techniques in Stochastic Computation Graphs](http://proceedings.mlr.press/v89/weber19a/weber19a.pdf)
