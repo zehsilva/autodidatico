@@ -2,7 +2,7 @@
 reposity to track my learning of different topics. Each folder will have a broad topic of interest and documents (.md, notebooks and pdfs)
 
 - Notebooks:
-  - Reparameterization and gradient estimators for variational inference (UIVI, SIVI): [notebook](https://github.com/zehsilva/autodidatico/blob/main/machine%20learning%20and%20statistics/variational%20inference%20foundations/implicit_vi.ipynb) and [Google Colab](https://colab.research.google.com/drive/1znA-K9F4C7Rp-uN13wFb9daHfzmdDRas?usp=sharing)
+  - Reparameterization and gradient estimators for variational inference (UIVI, SIVI): [notebook](machine%20learning%20and%20statistics/variational%20inference%20foundations/implicit_vi.ipynb) and [Google Colab](https://colab.research.google.com/drive/1znA-K9F4C7Rp-uN13wFb9daHfzmdDRas?usp=sharing)
 
 ## how can you help
 - Reach out: on twitter [@zeh_silva](https://twitter.com/zeh_silva), via PR (for example if you want to start a shared document were we learn things together), issues or email.
